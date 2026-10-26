@@ -1,0 +1,6 @@
+{
+  "name": "Seller Scout AI",
+  "description": "AI-powered product scout, profit margin calculator, and automated listing builder with Stripe recurring subscriptions and free trials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
